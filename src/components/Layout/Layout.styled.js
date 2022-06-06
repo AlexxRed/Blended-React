@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 export const Header = styled.header`
   display: block;
